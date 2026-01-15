@@ -1,3 +1,7 @@
+---
+title: Writer's Guide for Content Marketing
+---
+
 # All content matters.
 
 Imagine coming back from the shop with a new vacuum cleaner. You open the box and discover a collection of pipes and brushes. There’s also an accordion pamphlet with texts in a tiny font. Most of us will not bother with that pamphlet and figure out ourselves how to put together and operate our new appliance.
