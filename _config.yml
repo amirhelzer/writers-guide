@@ -1,2 +1,12 @@
 remote_theme: just-the-docs/just-the-docs
 title: Writer's Guide
+
+# This tells the theme you want just one page
+just_the_docs:
+  collections:
+    docs:
+      permalink: "/:path/"
+      output: true
+
+kramdown:
+  toc_levels: 2..3
