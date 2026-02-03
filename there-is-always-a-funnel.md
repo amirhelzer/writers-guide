@@ -3,7 +3,7 @@ title: There’s Always a Funnel. Understand it and Optimize Each Step.
 nav_order: 6
 ---
 
-## There’s always a funnel. Understand it and optimize each step.
+# There’s always a funnel. Understand it and optimize each step.
 
 Good content always accomplishes a goal. But content doesn’t accomplish its goal if the right people don’t know of its existence; or don’t choose to read it; or start reading it and abandon (bounce); or don’t trust what it says; or don’t take the action that you intend. If any of these happens, something along the funnel is broken and the content isn’t working.
 
